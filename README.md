@@ -19,10 +19,9 @@ The tool generates a malicious HTTPS page using Serveo or Ngrok Port Forwarding 
 
 >cd Nav-Cam-Dumper
 
->chmod +x NavCamDumper.sh ngrok
+>chmod +x NavCamDumper.sh
 
 >bash NavCamDumper.sh
 
-*Then make your hotspot on and choose ngrok because serveo is down..  BINGO🔥*
-_Happy Hacking_
+*Then make your hotspot on and choose ngrok because serveo is down..*
 *From the admin*
